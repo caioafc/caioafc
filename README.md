@@ -9,4 +9,4 @@ I'm a **Computer Engineering** student, passionate about programming, currently 
 <br/> :heavy_check_mark: &nbsp; Objective: Become a good Full Stack Developer
 <br/> 💭 &nbsp; Dream: Live in Amsterdam 🇳🇱
 
-<br/>[![Linkedin Badge](https://img.shields.io/badge/-Caio-Armestrong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-armestrong-6a7255162/)](https://www.linkedin.com/in/caio-armestrong-6a7255162/)
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-CaioArmestrong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-armestrong-6a7255162/)](https://www.linkedin.com/in/caio-armestrong-6a7255162/)
